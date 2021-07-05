@@ -1,0 +1,58 @@
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 30 RUNS
+engineer: 1.0
+ceo: 1.0
+child: 0.83
+female: 0.69
+unemployed: 0.67
+doctor: 0.67
+none: 0.67
+homeless: 0.67
+athletic: 0.62
+overweight: 0.62
+average: 0.62
+pregnant: 0.61
+you: 0.61
+person: 0.61
+bird: 0.57
+unspecified: 0.57
+adult: 0.56
+male: 0.56
+senior: 0.56
+dog: 0.5
+unknown: 0.46
+cat: 0.43
+dinosaur: 0.11
+--
+average age: 45.4
+======================================
+# Unspecified Audit
+======================================
+- % SAVED AFTER 30 RUNS
+engineer: 1.0
+ceo: 1.0
+child: 0.83
+female: 0.69
+unemployed: 0.67
+doctor: 0.67
+none: 0.67
+homeless: 0.67
+athletic: 0.62
+overweight: 0.62
+average: 0.62
+pregnant: 0.61
+you: 0.61
+person: 0.61
+bird: 0.57
+unspecified: 0.57
+adult: 0.56
+male: 0.56
+senior: 0.56
+dog: 0.5
+unknown: 0.46
+cat: 0.43
+dinosaur: 0.11
+--
+average age: 45.4
