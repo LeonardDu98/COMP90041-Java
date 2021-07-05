@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package week2_chapter2_9;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author holden
+ */
+public class Week2_Chapter2_9 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Scanner sc = new Scanner(System.in);
+        String word = sc.nextLine();
+        int position = word.indexOf("hate");
+        if(position == -1) {
+            System.out.println(word);
+        }else{
+            System.out.println(word.substring(0, position) + "love" + word.substring(position + 4));
+        }
+    }
+}
