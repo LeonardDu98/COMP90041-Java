@@ -1,0 +1,44 @@
+----WELCOME TO MY CONSOLE DRAWING APP----
+Current drawing canvas settings:
+- Width: 10
+- Height: 6
+- Background character: -
+
+Please select an option. Type 4 to exit.
+1. Draw triangles
+2. Draw squares
+3. Update drawing canvas settings
+4. Exit
+Side length:
+Printing character:
+Alignment (left, middle, right):
+AAAAA-----
+AAAA------
+AAA-------
+AA--------
+A---------
+----------
+Type R/L to rotate clockwise/anti-clockwise. Use other keys to continue.
+Draw another triangle (Y/N)?
+Please select an option. Type 4 to exit.
+1. Draw triangles
+2. Draw squares
+3. Update drawing canvas settings
+4. Exit
+Side length:
+Printing character:
+Alignment (left, middle, right):
+BBBBB-----
+BBBBB-----
+BBBBB-----
+BBBBB-----
+BBBBB-----
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+Draw another square (Y/N)?
+Please select an option. Type 4 to exit.
+1. Draw triangles
+2. Draw squares
+3. Update drawing canvas settings
+4. Exit
+Goodbye!

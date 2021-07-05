@@ -1,0 +1,13 @@
+1
+5
+A
+left
+Q
+N
+2
+5
+B
+left
+Q
+N
+4

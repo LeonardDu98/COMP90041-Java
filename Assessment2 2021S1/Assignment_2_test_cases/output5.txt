@@ -1,0 +1,145 @@
+----WELCOME TO SIMPLE COMPETITIONS APP----
+Which mode would you like to run? (Type T for Testing, and N for Normal mode):
+Invalid mode! Please choose again.
+Which mode would you like to run? (Type T for Testing, and N for Normal mode):
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Competition name: 
+A new competition has been created!
+Competition ID: 1, Competition Name: Easter Holidays
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Member ID: 
+Invalid member id! It must be a 6-digit number. Please try again.
+Member ID: 
+Bill ID: 
+Invalid bill id! It must be a 6-digit number. Please try again.
+Bill ID: 
+Total amount: 
+This bill is eligible for 2 entries. How many manual entries did the customer fill up?: 
+Please enter 7 different numbers (from the range 1 to 35) separated by whitespace.
+Invalid input! Fewer than 7 numbers are provided. Please try again!
+Please enter 7 different numbers (from the range 1 to 35) separated by whitespace.
+Invalid input! More than 7 numbers are provided. Please try again!
+Please enter 7 different numbers (from the range 1 to 35) separated by whitespace.
+Invalid input! All numbers must be different!
+Please enter 7 different numbers (from the range 1 to 35) separated by whitespace.
+The following entries have been added:
+Entry ID: 1      Numbers:  1  2  3  4  5  6  7
+Entry ID: 2      Numbers:  1  4  5 16 17 30 35 [Auto]
+Add more entries (Y/N)?
+Member ID: 
+Bill ID: 
+Total amount: 
+This bill is eligible for 6 entries. How many manual entries did the customer fill up?: 
+The following entries have been added:
+Entry ID: 3      Numbers:  6  7  9 13 23 25 30 [Auto]
+Entry ID: 4      Numbers:  1  9 12 13 22 28 34 [Auto]
+Entry ID: 5      Numbers:  2  3  4  7 14 23 26 [Auto]
+Entry ID: 6      Numbers:  3  7  8 11 13 16 27 [Auto]
+Entry ID: 7      Numbers:  1  2  6 14 22 25 26 [Auto]
+Entry ID: 8      Numbers:  1  3  5 11 13 23 33 [Auto]
+Add more entries (Y/N)?
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Member ID: 
+Bill ID: 
+Total amount: 
+This bill is eligible for 4 entries. How many manual entries did the customer fill up?: 
+The following entries have been added:
+Entry ID: 9      Numbers:  1  5 17 21 24 25 33 [Auto]
+Entry ID: 10     Numbers:  6  7 13 15 17 24 30 [Auto]
+Entry ID: 11     Numbers:  1  3 16 21 23 27 32 [Auto]
+Entry ID: 12     Numbers:  5  7  8 13 14 28 34 [Auto]
+Add more entries (Y/N)?
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Lucky entry for Competition ID: 1, Competition Name: Easter Holidays
+Numbers: 17 18 19 20 27 33 35 [Auto]
+Winning entries:
+Member ID: 123456, Entry ID: 2     , Prize: 50   , Numbers:  1  4  5 16 17 30 35 [Auto]
+Member ID: 142367, Entry ID: 9     , Prize: 50   , Numbers:  1  5 17 21 24 25 33 [Auto]
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+----SUMMARY REPORT----
++Number of completed competitions: 1
++Number of active competitions: 0
+
+Competition ID: 1, name: Easter Holidays, active: no
+Number of entries: 12
+Number of winning entries: 2
+Total awarded prizes: 100
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+There is no active competition. Please create one!
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+There is no active competition. Please create one!
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Competition name: 
+A new competition has been created!
+Competition ID: 2, Competition Name: Anzac Day
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+The current competition has no entries yet!
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+----SUMMARY REPORT----
++Number of completed competitions: 1
++Number of active competitions: 1
+
+Competition ID: 1, name: Easter Holidays, active: no
+Number of entries: 12
+Number of winning entries: 2
+Total awarded prizes: 100
+
+Competition ID: 2, name: Anzac Day, active: yes
+Number of entries: 0
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Goodbye!

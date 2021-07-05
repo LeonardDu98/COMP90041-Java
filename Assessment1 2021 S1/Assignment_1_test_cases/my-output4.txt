@@ -1,0 +1,227 @@
+----WELCOME TO MY CONSOLE DRAWING APP----
+Current drawing canvas settings:
+- Width: 10
+- Height: 6
+- Background character: -
+
+Please select an option. Type 4 to exit.
+1. Draw triangles
+2. Draw squares
+3. Update drawing canvas settings
+4. Exit
+Side length:
+Printing character:
+Alignment (left, middle, right):
+AAAA------
+AAAA------
+AAAA------
+AAAA------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+AAAAA-----
+AAAAA-----
+AAAAA-----
+AAAAA-----
+AAAAA-----
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+AAAAAA----
+AAAAAA----
+AAAAAA----
+AAAAAA----
+AAAAAA----
+AAAAAA----
+Type I/O to zoom in/out. Use other keys to continue.
+AAAAAA----
+AAAAAA----
+AAAAAA----
+AAAAAA----
+AAAAAA----
+AAAAAA----
+Type I/O to zoom in/out. Use other keys to continue.
+AAAAA-----
+AAAAA-----
+AAAAA-----
+AAAAA-----
+AAAAA-----
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+AAAA------
+AAAA------
+AAAA------
+AAAA------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+AAA-------
+AAA-------
+AAA-------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+AA--------
+AA--------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+A---------
+----------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+A---------
+----------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+Draw another square (Y/N)?
+Side length:
+Error! The side length is too long (Current canvas size is 10x6). Please try again.
+Side length:
+Printing character:
+Alignment (left, middle, right):
+----BBBBBB
+----BBBBBB
+----BBBBBB
+----BBBBBB
+----BBBBBB
+----BBBBBB
+Type I/O to zoom in/out. Use other keys to continue.
+----BBBBBB
+----BBBBBB
+----BBBBBB
+----BBBBBB
+----BBBBBB
+----BBBBBB
+Type I/O to zoom in/out. Use other keys to continue.
+-----BBBBB
+-----BBBBB
+-----BBBBB
+-----BBBBB
+-----BBBBB
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+------BBBB
+------BBBB
+------BBBB
+------BBBB
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+-------BBB
+-------BBB
+-------BBB
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+--------BB
+--------BB
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+---------B
+----------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+---------B
+----------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+Draw another square (Y/N)?
+Side length:
+Printing character:
+Alignment (left, middle, right):
+---CCCC---
+---CCCC---
+---CCCC---
+---CCCC---
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+--CCCCC---
+--CCCCC---
+--CCCCC---
+--CCCCC---
+--CCCCC---
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+Type I/O to zoom in/out. Use other keys to continue.
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+--CCCCCC--
+Type I/O to zoom in/out. Use other keys to continue.
+--CCCCC---
+--CCCCC---
+--CCCCC---
+--CCCCC---
+--CCCCC---
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+---CCCC---
+---CCCC---
+---CCCC---
+---CCCC---
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+---CCC----
+---CCC----
+---CCC----
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+----CC----
+----CC----
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+----C-----
+----------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+----C-----
+----------
+----------
+----------
+----------
+----------
+Type I/O to zoom in/out. Use other keys to continue.
+Draw another square (Y/N)?
+Please select an option. Type 4 to exit.
+1. Draw triangles
+2. Draw squares
+3. Update drawing canvas settings
+4. Exit
+Goodbye!

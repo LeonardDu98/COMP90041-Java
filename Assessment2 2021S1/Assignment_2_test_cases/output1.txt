@@ -1,0 +1,32 @@
+----WELCOME TO SIMPLE COMPETITIONS APP----
+Which mode would you like to run? (Type T for Testing, and N for Normal mode):
+Invalid mode! Please choose again.
+Which mode would you like to run? (Type T for Testing, and N for Normal mode):
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+There is no active competition. Please create one!
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+There is no active competition. Please create one!
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+No competition has been created yet!
+Please select an option. Type 5 to exit.
+1. Create a new competition
+2. Add new entries
+3. Draw winners
+4. Get a summary report
+5. Exit
+Goodbye!
